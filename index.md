@@ -48,7 +48,7 @@ An assignment can be handed-in at any time during the year.
 
   1. Find a staff of the MSc Geomatics;
   1. Agree on a topic;
-  1. Send me (`h.ledoux@tudelft.nl`) a half-page summary containing the following:
+  1. Send to the coordinator ([Clara García-Sánchez](mailto:c.garcia-sanchez@tudelft.nl)) a half-page summary containing the following:
 
      - name student
      - name of the supervisor
